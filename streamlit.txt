@@ -1,0 +1,4 @@
+streamlit
+rapidfuzz
+pillow
+pycountry
